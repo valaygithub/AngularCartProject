@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Product 1",
+    "image": "assets/images/custard.jfif",
+    "weight": "10kg",
+    "price": 50
+  },
+  {
+    "name": "Product 2",
+    "image": "assets/images/orange.jfif",
+    "weight": "5kg",
+    "price": 30
+  }
+]

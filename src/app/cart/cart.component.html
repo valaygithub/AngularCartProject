@@ -1,0 +1,7 @@
+
+<div *ngFor="let product of cartService.cart">
+  <h2>{{ product.name }}</h2>
+  <p>Price: ${{ product.price }}</p>
+  <!-- Add other product details as needed -->
+  <button (click)="removeFromCart(product)">Remove from cart</button>
+</div>
